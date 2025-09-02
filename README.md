@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=mihitha01&label=Profile%20views&color=0e75b6&style=flat" alt="mihitha01" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mihitha01&theme=tokyonight&no-frame=true&row=1&column=6" alt="mihitha01" />
-  </a> 
-</p>
-
 ---
 
 ### 📝 About Me
@@ -21,12 +15,6 @@
 - 🎲 Fun fact: I can spend hours debugging but only minutes coding 😅  
 
 ---
-
-### 🌍 Connect with Me
-<p align="left">
-  <a href="https://dev.to/mihitha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mihitha01" height="30" width="40" /></a>
-  <a href="https://medium.com/@mihitha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mihitha01" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -49,17 +37,4 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihitha01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mihitha01" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihitha01&show_icons=true&locale=en&theme=tokyonight" alt="mihitha01" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihitha01&theme=tokyonight" alt="mihitha01" />
-</p>
 
