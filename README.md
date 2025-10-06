@@ -8,7 +8,7 @@
 ---
 
 ### 📝 About Me
-- 🎓 **Computer Science student** at university  
+- 🎓 **Computer Science student** at university of Ruhuna  
 - 💻 I enjoy working with **Java, Python, PHP, JavaScript, and React**  
 - 🌱 Currently learning **Spring Boot**, **Machine Learning**, and exploring **Game Development with Unity**  
 - 🎯 My goal: Become a skilled **Full-Stack Developer & AI Engineer**  
